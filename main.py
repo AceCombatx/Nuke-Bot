@@ -456,7 +456,7 @@ async def on_command_error(ctx, error):
 if __name__ == "__main__":
     token = os.getenv("DISCORD_ATOKEN")
     if not token:
-        logger.error("No Discord token found. Please set the DISCORD_TOKEN environment variable.")
+        logger.error("No Discord token found. Please set the DISCORD_ATOKEN environment variable.")
         exit(1)
     
     bot.run(token)
