@@ -105,3 +105,10 @@ python main.py
 ---
 
 ⭐️ Star this project if you find it useful for testing your anti-nuke defense systems.
+
+---
+
+## 🔐 License
+
+This project is under a **Custom No-Distribution, No-Commercial-Use License**.  
+See [LICENSE](./LICENSE) for details. You may not distribute, modify, or sell this code.
